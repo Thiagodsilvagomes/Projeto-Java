@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Biblioteca biblioteca = new Biblioteca();
 
-        Livro livro1 = new Livro("Dom Casmurro", "Machado de Assis");
+        Livro livro1 = new Livro("Carteira", "Machado de Assis");
         Livro livro2 = new Livro("Memórias Póstumas de Brás Cubas", "Machado de Assis");
 
         biblioteca.addLivro(livro1);
